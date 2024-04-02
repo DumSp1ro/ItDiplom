@@ -1,5 +1,4 @@
 [Документ по курсовой](https://docs.google.com/document/d/1Q7XyYs7gtUfUlVZttdVRH8IW6--J3WWw02qsMlfM5h0/edit?usp=sharing)</br>
-[Акт](https://docs.google.com/document/d/1wjKWzqf6Thwg4IsgmKb0lChFL4Tp1qLy/edit?usp=sharing&ouid=102948710764849125761&rtpof=true&sd=true)</br>
 [Методичка](https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/edit)</br>
 [Тема](https://it-planet.braim.org/2024/upload/lsd_task1.pdf)</br>
 
